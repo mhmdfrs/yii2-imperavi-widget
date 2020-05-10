@@ -22,5 +22,5 @@ return [
     'ERROR_FILE_ALREADY_EXIST' => 'يوجد مسبقاً ملف بنفس الإسم. ',
     'ERROR_FILE_IDENTIFIER_MUST_BE_PROVIDED' => 'يجب تزويد معرف للملف.',
     'ERROR_FILE_DOES_NOT_EXIST' => 'الملف غير موجود.',
-    'ERROR_CANNOT_REMOVE_FILE' => 'لا يمكن حذف الملف, هناك خطأ ما.',
+    'ERROR_CANNOT_REMOVE_FILE' => 'لا يمكن حذف الملف.',
 ];
